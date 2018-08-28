@@ -1,0 +1,6 @@
+C:\Users\Cielo\source\repos\TestaPontoFlutuante\TestaPontoFlutuante\bin\Debug\TestaPontoFlutuante.exe.config
+C:\Users\Cielo\source\repos\TestaPontoFlutuante\TestaPontoFlutuante\bin\Debug\TestaPontoFlutuante.exe
+C:\Users\Cielo\source\repos\TestaPontoFlutuante\TestaPontoFlutuante\bin\Debug\TestaPontoFlutuante.pdb
+C:\Users\Cielo\source\repos\TestaPontoFlutuante\TestaPontoFlutuante\obj\Debug\TestaPontoFlutuante.csproj.CoreCompileInputs.cache
+C:\Users\Cielo\source\repos\TestaPontoFlutuante\TestaPontoFlutuante\obj\Debug\TestaPontoFlutuante.exe
+C:\Users\Cielo\source\repos\TestaPontoFlutuante\TestaPontoFlutuante\obj\Debug\TestaPontoFlutuante.pdb

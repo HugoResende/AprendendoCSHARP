@@ -1,0 +1,7 @@
+C:\Users\Cielo\source\repos\4-CoversõesEOutrosTiposNuméricos\4-CoversõesEOutrosTiposNuméricos\bin\Debug\4-CoversõesEOutrosTiposNuméricos.exe.config
+C:\Users\Cielo\source\repos\4-CoversõesEOutrosTiposNuméricos\4-CoversõesEOutrosTiposNuméricos\bin\Debug\4-CoversõesEOutrosTiposNuméricos.exe
+C:\Users\Cielo\source\repos\4-CoversõesEOutrosTiposNuméricos\4-CoversõesEOutrosTiposNuméricos\bin\Debug\4-CoversõesEOutrosTiposNuméricos.pdb
+C:\Users\Cielo\source\repos\4-CoversõesEOutrosTiposNuméricos\4-CoversõesEOutrosTiposNuméricos\obj\Debug\4-CoversõesEOutrosTiposNuméricos.csprojAssemblyReference.cache
+C:\Users\Cielo\source\repos\4-CoversõesEOutrosTiposNuméricos\4-CoversõesEOutrosTiposNuméricos\obj\Debug\4-CoversõesEOutrosTiposNuméricos.csproj.CoreCompileInputs.cache
+C:\Users\Cielo\source\repos\4-CoversõesEOutrosTiposNuméricos\4-CoversõesEOutrosTiposNuméricos\obj\Debug\4-CoversõesEOutrosTiposNuméricos.exe
+C:\Users\Cielo\source\repos\4-CoversõesEOutrosTiposNuméricos\4-CoversõesEOutrosTiposNuméricos\obj\Debug\4-CoversõesEOutrosTiposNuméricos.pdb

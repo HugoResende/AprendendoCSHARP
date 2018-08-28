@@ -1,0 +1,6 @@
+C:\Users\Cielo\source\repos\ConversoesEOutrosTiposNumericos\ConversoesEOutrosTiposNumericos\bin\Debug\ConversoesEOutrosTiposNumericos.exe.config
+C:\Users\Cielo\source\repos\ConversoesEOutrosTiposNumericos\ConversoesEOutrosTiposNumericos\bin\Debug\ConversoesEOutrosTiposNumericos.exe
+C:\Users\Cielo\source\repos\ConversoesEOutrosTiposNumericos\ConversoesEOutrosTiposNumericos\bin\Debug\ConversoesEOutrosTiposNumericos.pdb
+C:\Users\Cielo\source\repos\ConversoesEOutrosTiposNumericos\ConversoesEOutrosTiposNumericos\obj\Debug\ConversoesEOutrosTiposNumericos.csproj.CoreCompileInputs.cache
+C:\Users\Cielo\source\repos\ConversoesEOutrosTiposNumericos\ConversoesEOutrosTiposNumericos\obj\Debug\ConversoesEOutrosTiposNumericos.exe
+C:\Users\Cielo\source\repos\ConversoesEOutrosTiposNumericos\ConversoesEOutrosTiposNumericos\obj\Debug\ConversoesEOutrosTiposNumericos.pdb
